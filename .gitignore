@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+/Lesson_5
+/.vs
